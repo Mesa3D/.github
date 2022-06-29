@@ -12,3 +12,6 @@ https://gitlab.freedesktop.org/mesa/, for two purposes:
 
 Contributions are welcome, but please submit them to the upstream
 repository, as any pull-request to the read-only mirrors will be closed.
+
+Please read the GitHub description of each repo for a link to its
+corresponding upstream repository.
