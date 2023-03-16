@@ -2,8 +2,8 @@
 
 This GitHub organisation contains read-only mirrors of projects in
 https://gitlab.freedesktop.org/mesa/, for two purposes:
-- Discoverability: GitHub is popular, people are likely to be searching
-  for projects here.
+- CI: GitHub provides macOS runners, which we make use of to try to keep
+  the macOS build working.
 - Organisation: people using GitHub can fork repos here instead of
   making independent repositories, which allows all the forks to be
   under the same umbrella.
